@@ -19,7 +19,18 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="loonglim's stats" style="height: 200px;" />
+            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=loonglim&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="loonglim's stats"/>
+        </picture>
+    </div>
+</div>
+
+<br>
+<div style="text-align: center;">
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=flat" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=loonglim&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="loonglim's stats"/>
         </picture>
     </div>
 </div>
