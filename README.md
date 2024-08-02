@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/light.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/loonglim/loonglim/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!-- activity graph heroku-app start -->
 <br>
